@@ -1,0 +1,16 @@
+---
+roles:
+  - src: git@github.com:vegorshkov/ansible-clickhouse.git
+    scm: git
+    version: "1.13"
+    name: clickhouse
+
+  - src: /home/vgorshkov/Desktop/Школа лидера поток.3/STUDENT/DZ/Ansible/vector-role
+    name: vector-role
+
+  - src: /home/vgorshkov/Desktop/Школа лидера поток.3/STUDENT/DZ/Ansible/lighthouse-role
+    name: lighthouse-role
+
+collections:
+  - name: ansible.posix
+    version: ">=1.5.0"
