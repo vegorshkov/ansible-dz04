@@ -88,6 +88,13 @@ http://158.160.79.100/#http://93.77.190.124:8123/  строка подключе
 Ответ:
 В ответе дайте ссылки на оба репозитория с roles и одну ссылку на репозиторий с playbook.
 
+Репозитории:
+https://github.com/vegorshkov/vector-role
+https://github.com/vegorshkov/lighthouse
+(https://github.com/vegorshkov/ansible-clickhouse)
+
+Playbook:
+https://github.com/vegorshkov/ansible-dz04/tree/main 
 
 Готово.
 
