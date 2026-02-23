@@ -1,0 +1,16 @@
+---
+galaxy_info:
+  author: Victor Gorshkov
+  description: Install and configure Vector
+  min_ansible_version: 2.10
+  license: GPL-2.0-or-later
+  platforms:
+    - name: EL
+      versions:
+        - 7
+        - 8
+    - name: Ubuntu
+      versions:
+        - all
+
+dependencies: []
